@@ -1,0 +1,9 @@
+* {
+	border-radius: 0px !important;
+}
+
+#viewLessonMaterialContent iframe,
+#viewMaterialContent iframe {
+	width: 100% !important;
+	height: 450px !important; 
+}
